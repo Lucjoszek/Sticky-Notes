@@ -8,16 +8,16 @@
   <summary>Pozostałe obrazy z aplikacji</summary>
   
   ### Brak notatek
-  ![Opis zdjęcia](./docs/empty.png)
+  ![Brak notatek](./docs/empty.png)
 
   ### Dialog tworzenia notatki
-  ![Drugie zdjęcie](./docs/note-creation.png)
+  ![Tworzenie notatki](./docs/note-creation.png)
 
   ### Dialog edycji notatki
-  ![Drugie zdjęcie](./docs/note-editing.png)
+  ![Edytowanie notatki](./docs/note-editing.png)
 
   ### Wyszukiwanie notatek
-  ![Drugie zdjęcie](./docs/note-search.png)
+  ![Wyszukiwanie](./docs/search.png)
   
 </details>
 
